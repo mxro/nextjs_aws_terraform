@@ -1,0 +1,20 @@
+{
+  "$schema": "./schemas/package.schema.json",
+  "name": "app-nextjs-bootstrap",
+  "template": "app-nextjs-bootstrap",
+  "templateVersion": "0.1.32",
+  "configuration": {},
+  "deployments": [
+    {
+      "name": "prod",
+      "configuration": {
+        "defaultCacheDuration": 10,
+        "hostedZoneDomain": "dev.goldstack.party",
+        "websiteDomain": "nextjs-aws-terraform11.dev.goldstack.party",
+        "websiteDomainRedirect": "www.nextjs-aws-terraform11.dev.goldstack.party"
+      },
+      "awsUser": "awsUser",
+      "awsRegion": "us-west-2"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "projectName": "nextjs-aws-terraform11",
+  "packages": [
+    {
+      "packageName": "app-nextjs-bootstrap",
+      "templateReference": {
+        "templateName": "app-nextjs-bootstrap"
+      }
+    }
+  ],
+  "rootTemplateReference": {
+    "templateName": "yarn-pnp-monorepo"
+  },
+  "createdAt": "2022-01-21T20:18:59.200Z"
+}
