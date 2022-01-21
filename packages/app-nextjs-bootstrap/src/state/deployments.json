@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "name": "prod",
+    "terraform": {
+      "edge_function_name": {
+        "sensitive": false,
+        "type": "string",
+        "value": "nextjs-aws-terraform11-dev-goldstack-party-edge"
+      },
+      "website_cdn_root_id": {
+        "sensitive": false,
+        "type": "string",
+        "value": "E1L26HVUI1X1CA"
+      }
+    }
+  }
+]

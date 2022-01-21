@@ -14,7 +14,8 @@
         "websiteDomainRedirect": "www.nextjs-aws-terraform11.dev.goldstack.party"
       },
       "awsUser": "awsUser",
-      "awsRegion": "us-west-2"
+      "awsRegion": "us-west-2",
+      "tfStateKey": "app-nextjs-bootstrap-prod-707600d9512b54b8c522.tfstate"
     }
   ]
 }

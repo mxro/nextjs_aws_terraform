@@ -7,7 +7,6 @@ This module provides a [Next.js](https://nextjs.org/) application set up to use 
 ## Features
 
 *   Bootstrap styling for Next.js application
-
 *   Optimised for TypeScript
 *   Configured for unit testing using Jest and React Testing library
 *   Scalable AWS infrastructure defined in Terraform; all content served through the powerful CloudFront CDN and stored in S3 at very low costs. This [blog article](https://simonecarletti.com/blog/2016/08/redirect-domain-https-amazon-cloudfront/) shows how a similar setup could be created manually.
